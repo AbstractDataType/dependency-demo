@@ -10,3 +10,5 @@ Filnally, compile all the java class and deploy all the classes into src/main/we
 repository as a project and build. Notice that the application context is "/")
 
 Copy all the stuff in the folder "webapps" (exclude the webapps floder itself) to "you tomcat root folder"/webapps/ROOT . the website can only run in ROOT folder.
+
+Thanks to the [admin-lte](https://github.com/ColorlibHQ/AdminLTE) and [admin-lte-itheima](https://github.com/itheima2017/adminlte2-itheima)
